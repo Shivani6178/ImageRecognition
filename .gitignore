@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+__pycache__
+*.pyc
+
+data_cleaning.ipynb
